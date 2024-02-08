@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhelanjith&label=Profile%20views&color=0e75b6&style=flat" alt="iamhelanjith" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, React Native and NodeJS**
+- 🌱 I’m currently learning **ReactJS and NodeJS**
 
 - 📫 How to reach me **helanm06@gmail.com**
 
