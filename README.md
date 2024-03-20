@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dimuthu Asanka</h1>
+<h1 align="center">Hi 👋, I'm Hareen Helanjith </h1>
 <h3 align="center">Undergraduate Student at University of Moratuwa.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvCAciTXYrPOZJqkMDC-WU4pTTm2RJJq6HQ&usqp=CAU">
 
