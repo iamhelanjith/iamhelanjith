@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 📫 How to reach me **dimutha@gmail.com**
+- 📫 How to reach me **helanm06@gmail.com**
 
 - ⚡ Fun fact **I guess I'm a bit of an introvert**
