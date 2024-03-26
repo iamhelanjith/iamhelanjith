@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hareen Helanjith </h1>
+<h1 align="center">Hi 👋, I'm Dimuthu Asanga </h1>
 <h3 align="center">Undergraduate Student at University of Moratuwa.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvCAciTXYrPOZJqkMDC-WU4pTTm2RJJq6HQ&usqp=CAU">
 
@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 📫 How to reach me **helanm06@gmail.com**
+- 📫 How to reach me **dimuthu06@gmail.com**
 
 - ⚡ Fun fact **I guess I'm a bit of an introvert**
